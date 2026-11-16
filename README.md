@@ -10,10 +10,10 @@
 
 | 编号 | 书名 | 出版社 / 年份 | 页数 | 数字化目录 | 状态 |
 | :--- | :--- | :--- | :---: | :--- | :--- |
-| **01** | **《CEC-I 型中华学习机用户使用手册》** | 电子工业出版社 (1988年9月第2版) | 265 | [`docs/01-user-manual/`](docs/01-user-manual/README.md) | 🚧 样章已完成 (Ch.1 + Ch.2.1–2.3) |
-| **02** | **《中华学习机系统原理使用及维修》** | 清华大学出版社 (邵祖英、王秉湖、付强、高小华 编著) | 269 | [`docs/02-system-principles-maintenance/`](docs/02-system-principles-maintenance/) | ⏳ 待处理 |
-| **03** | **《中华学习机 CEC-I 技术参考手册（软件）》** | 清华大学出版社 (中华学习机联合设计组 编) | 306 | [`docs/03-software-reference/`](docs/03-software-reference/) | ⏳ 待处理 |
-| **04** | **《中华学习机实用大全 2：汉字处理与数据库技术》** | 电子工业出版社 (1990年，韩仲清 主编) | 373 | [`docs/04-chinese-processing-database/`](docs/04-chinese-processing-database/) | ⏳ 待处理 |
+| **01** | **《CEC-I 型中华学习机用户使用手册》** | 电子工业出版社 (1988年9月第2版) | 265 | [`docs/01-user-manual/`](docs/01-user-manual/README.md) | ✅ 100% 完成 (8,312行, 33图) |
+| **02** | **《中华学习机系统原理使用及维修》** | 清华大学出版社 (邵祖英、王秉湖、付强、高小华 编著) | 269 | [`docs/02-system-principles-maintenance/`](docs/02-system-principles-maintenance/README.md) | ✅ 100% 完成 (全9章+附录图样, 46图) |
+| **03** | **《中华学习机 CEC-I 技术参考手册（软件）》** | 清华大学出版社 (中华学习机联合设计组 编) | 306 | [`docs/03-software-reference/`](docs/03-software-reference/README.md) | 🚧 7/9 篇已完成 (3,940行, 30+图) |
+| **04** | **《中华学习机 CEC-I 技术参考手册（硬件）》** | 清华大学出版社 (中华学习机联合设计组 编) | 227 | [`docs/04-hardware-reference/`](docs/04-hardware-reference/README.md) | ⏳ 已编目规划，待启动转录 |
 
 ---
 
@@ -41,7 +41,7 @@ cec-i-manuals/
     ├── 03-software-reference/                 # 《中华学习机 CEC-I 技术参考手册（软件）》
     │   ├── README.md
     │   └── images/
-    └── 04-chinese-processing-database/        # 《中华学习机实用大全 2：汉字处理与数据库技术》
+    └── 04-hardware-reference/                 # 《中华学习机 CEC-I 技术参考手册（硬件）》
         ├── README.md
         └── images/
 ```

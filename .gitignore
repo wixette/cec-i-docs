@@ -34,3 +34,6 @@ npm-debug.log*
 # Python
 __pycache__/
 *.pyc
+.cec_pages
+cec_pages
+raw_pages/
