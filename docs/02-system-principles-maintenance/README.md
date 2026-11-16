@@ -50,13 +50,14 @@
     - [§3-2 6502 的指令系统（二）](ch03b-6502-part2.md) (p. 48)
     - [§3-3 程序综合举例](ch03b-6502-part2.md#3-3-程序综合举例) (p. 60)
 - **第四章 中华学习机主板工作原理** (p. 67)
-  - **[Part 1: §4-1 ~ §4-6](ch04a-motherboard-part1.md)**
-    - [§4-1 中华学习机主板正视图及逻辑总框图](ch04a-motherboard-part1.md#4-1-中华学习机主板正视图及逻辑总框图) (p. 67)
-    - [§4-2 中央处理器及地址总线缓冲器](ch04a-motherboard-part1.md#4-2-中央处理器及地址总线缓冲器) (p. 70)
-    - [§4-3 存储器系统](ch04a-motherboard-part1.md#4-3-存储器系统) (p. 72)
-    - [§4-4 时钟信号产生器](ch04a-motherboard-part1.md#4-4-时钟信号产生器) (p. 83)
-    - [§4-5 外设卡输入/输出空间分配](ch04a-motherboard-part1.md#4-5-外设卡输入输出空间分配) (p. 86)
-    - [§4-6 键盘和键盘接口电路](ch04a-motherboard-part1.md#4-6-键盘和键盘接口电路) (p. 94)
+  - **[Part 1a: §4-1 ~ §4-3](ch04a1-motherboard-part1a.md)**
+    - [§4-1 中华学习机主板正视图及逻辑总框图](ch04a1-motherboard-part1a.md#4-1-中华学习机主板正视图及逻辑总框图) (p. 67)
+    - [§4-2 中央处理器及地址总线缓冲器](ch04a1-motherboard-part1a.md#4-2-中央处理器及地址总线缓冲器) (p. 70)
+    - [§4-3 存储器系统](ch04a1-motherboard-part1a.md#4-3-存储器系统) (p. 72)
+  - **[Part 1b: §4-4 ~ §4-6](ch04a2-motherboard-part1b.md)**
+    - [§4-4 时钟信号产生器](ch04a2-motherboard-part1b.md#4-4-时钟信号产生器) (p. 83)
+    - [§4-5 外设卡输入/输出空间分配](ch04a2-motherboard-part1b.md#4-5-外设卡输入输出空间分配) (p. 86)
+    - [§4-6 键盘和键盘接口电路](ch04a2-motherboard-part1b.md#4-6-键盘和键盘接口电路) (p. 94)
   - **[Part 2: §4-7 ~ §4-12](ch04b-motherboard-part2.md)**
     - [§4-7 盒式录音机接口](ch04b-motherboard-part2.md#4-7-盒式录音机接口) (p. 101)
     - [§4-8 扬声器接口](ch04b-motherboard-part2.md#4-8-扬声器接口) (p. 105)
