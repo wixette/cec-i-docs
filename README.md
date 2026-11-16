@@ -12,7 +12,7 @@
 | :--- | :--- | :--- | :---: | :--- | :--- |
 | **01** | **《CEC-I 型中华学习机用户使用手册》** | 电子工业出版社 (1988年9月第2版) | 265 | [`docs/01-user-manual/`](docs/01-user-manual/README.md) | ✅ 100% 完成 (8,312行, 33图) |
 | **02** | **《中华学习机系统原理使用及维修》** | 清华大学出版社 (邵祖英、王秉湖、付强、高小华 编著) | 269 | [`docs/02-system-principles-maintenance/`](docs/02-system-principles-maintenance/README.md) | ✅ 100% 完成 (全9章+附录图样, 46图) |
-| **03** | **《中华学习机 CEC-I 技术参考手册（软件）》** | 清华大学出版社 (中华学习机联合设计组 编) | 306 | [`docs/03-software-reference/`](docs/03-software-reference/README.md) | 🚧 7/9 篇已完成 (3,940行, 30+图) |
+| **03** | **《中华学习机 CEC-I 技术参考手册（软件）》** | 清华大学出版社 (中华学习机联合设计组 编) | 306 | [`docs/03-software-reference/`](docs/03-software-reference/README.md) | ✅ 100% 完成 (全5部分9篇, 6,342行, 121图) |
 | **04** | **《中华学习机 CEC-I 技术参考手册（硬件）》** | 清华大学出版社 (中华学习机联合设计组 编) | 227 | [`docs/04-hardware-reference/`](docs/04-hardware-reference/README.md) | ⏳ 已编目规划，待启动转录 |
 
 ---
