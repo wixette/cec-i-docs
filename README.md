@@ -1,4 +1,4 @@
-# 中华学习机 CEC-I 历史文献数字化工程 (CEC-I Manuals Digitalization)
+# 中华学习机 CEC-I 历史技术文献数字化工程 (CEC-I Docs Digitalization)
 
 > **“计算机的普及要从娃娃做起。”** —— 邓小平（1984 年 2 月 16 日于上海展览馆）
 
@@ -40,7 +40,7 @@
 ## 仓库目录结构 (Repository Structure)
 
 ```text
-cec-i-manuals/
+cec-i-docs/
 ├── README.md                                  # 项目总览与书籍导航
 ├── scanned_oringinal_docs/                    # 原始扫描 PDF（Git 忽略）
 └── docs/
